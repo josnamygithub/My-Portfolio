@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.dafe75c7.css",
+    "main.js": "/My-Portfolio/static/js/main.46dfddb2.js",
+    "static/js/453.888f7807.chunk.js": "/My-Portfolio/static/js/453.888f7807.chunk.js",
+    "static/media/himalayalogo.png": "/My-Portfolio/static/media/himalayalogo.3c8b5e895dd75dddae42.png",
+    "static/media/borosillogo.png": "/My-Portfolio/static/media/borosillogo.837961a905671216ab87.png",
+    "static/media/uniceflogo.png": "/My-Portfolio/static/media/uniceflogo.87f1363a710d3e96e998.png",
+    "static/media/modelproject.png": "/My-Portfolio/static/media/modelproject.39b86fa42a949ff7ab8d.png",
+    "static/media/mypicture.png": "/My-Portfolio/static/media/mypicture.08c547d41680c2094071.png",
+    "static/media/mypicture1.jpg": "/My-Portfolio/static/media/mypicture1.642213810fafb2df84b1.jpg",
+    "static/media/TodoApp.png": "/My-Portfolio/static/media/TodoApp.8b40e43bb628ebd8fff7.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.dafe75c7.css.map": "/My-Portfolio/static/css/main.dafe75c7.css.map",
+    "main.46dfddb2.js.map": "/My-Portfolio/static/js/main.46dfddb2.js.map",
+    "453.888f7807.chunk.js.map": "/My-Portfolio/static/js/453.888f7807.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dafe75c7.css",
+    "static/js/main.46dfddb2.js"
+  ]
+}
